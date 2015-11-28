@@ -5,5 +5,6 @@
 
 * [sass](http://www.ruanyifeng.com/blog/2012/06/sass.html)  
 
-* [markdown速成](http://www.jianshu.com/p/1e402922ee32/)
+* [markdown速成](http://www.jianshu.com/p/1e402922ee32/)    
 
+* [backbone实现todo](http://www.the5fire.com/7-backbone-todos-1.html)
