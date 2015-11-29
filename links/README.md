@@ -7,4 +7,10 @@
 
 * [markdown速成](http://www.jianshu.com/p/1e402922ee32/)    
 
-* [backbone实现todo](http://www.the5fire.com/7-backbone-todos-1.html)
+* backbone实现todo
+    * the5fire关于backbone的讲解
+      * [简介](http://www.the5fire.com/tag/backbone/)
+      * [todos](http://www.the5fire.com/7-backbone-todos-1.html)
+    * backbone API
+      * [中文](http://www.css88.com/doc/backbone/#FAQ-tim-toady)
+      * [英文](http://backbonejs.org/#View)
