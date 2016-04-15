@@ -16,3 +16,7 @@
       * [英文](http://backbonejs.org/#View)
     * [todos backbone源码](https://github.com/jashkenas/backbone/blob/master/examples/todos/index.html)
     * [backbone template讲解](http://www.2ality.com/2012/06/underscore-templates.html)
+
+* [前端涉及的所有知识体系 ](https://segmentfault.com/a/1190000004070468)
+
+* [开发资源总结 2015-10-26 更新 ](https://segmentfault.com/a/1190000002691861)
